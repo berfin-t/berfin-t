@@ -1,4 +1,4 @@
-### Hi there, I'm Berfin
+### Hi there, I'm Berfin.I'm studying computer engineering at Aydın Adnan Menderes University.I am interested in data science, machine learning and artificial intelligence.
 
 <!--
 **berfin-t/berfin-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tekberfin)
 [![](https://img.shields.io/badge/GlobalAIHub-%2312100E.svg?&style=for-the-badge&logo=globalaihub&logoColor=blue)](https://globalaihub.com/?ref=BerfinTek)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=berfin-t&show_icons=true&theme=radical)
