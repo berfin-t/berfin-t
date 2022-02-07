@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tekberfin)
+[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=000&logo=Medium&logoColor=white&link=https://medium.com/@tekberfin)](link)
 [![](https://img.shields.io/badge/GlobalAIHub-%2312100E.svg?&style=for-the-badge&logo=globalaihub&logoColor=blue)](https://globalaihub.com/?ref=BerfinTek)
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=berfin-t&show_icons=true&theme=radical)
