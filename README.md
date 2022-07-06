@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on Data Analysis, Machine Leraning and Deep Learning. 
 - 🌱 I’m currently learning Blockchain and C# Language.
 </br>
-</br>
 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tekberfin)
 [![](https://img.shields.io/badge/GlobalAIHub-%2312100E.svg?&style=for-the-badge&logo=globalaihub&logoColor=blue)](https://globalaihub.com/?ref=BerfinTek)
+</br>
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=berfin-t&show_icons=true&theme=radical)
