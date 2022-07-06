@@ -3,15 +3,12 @@
 <div size='20px'> ❤️ An enthusiastic and dynamic software Data Scientist with never ending passion.  </div>
 <div size='20px'> ❤️ Working to deepen in the areas I enjoy, to get a good position in computer science with a solid education and experience and to make the best contributions to this science. </div> 
 <div size='20px'> ❤️ Solving problems in the best way and managing time in the best way. </div>
-
-<!--
-**berfin-t/berfin-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+</br>
 
 - 🔭 I’m currently working on Data Analysis, Machine Leraning and Deep Learning. 
 - 🌱 I’m currently learning Blockchain and C# Language.
--->
+</br>
+</br>
 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tekberfin)
 [![](https://img.shields.io/badge/GlobalAIHub-%2312100E.svg?&style=for-the-badge&logo=globalaihub&logoColor=blue)](https://globalaihub.com/?ref=BerfinTek)
