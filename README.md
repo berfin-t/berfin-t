@@ -1,4 +1,7 @@
 <h1> Hi there, I'm <b>Berfin<b> . </h1>
+      <div id="header" align="center">
+  <a href="https://www.youtube.com/watch?v=5NV6Rdv1a3I"><img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="200"/></a>
+  <div>
 <div>
 <a href="https://www.linkedin.com/in/berfintek/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
