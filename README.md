@@ -1,4 +1,4 @@
-<h1> Hi there, I'm <b> Berfin<b> . </h1>
+<h1> Hi there, I'm <b>Berfin<b> . </h1>
 
 <a href="https://www.linkedin.com/in/berfintek/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,7 +8,7 @@
     </a>
  
 <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> 
-    
+</br>    
 <div size='20px'> ❤️ I'm studying computer engineering at Aydın Adnan Menderes University. I am interested in Data Science, Machine Learning, Deep Learning and Blockchain. </div>
 <div size='20px'> ❤️ An enthusiastic and dynamic software Data Scientist with never ending passion.  </div>
 <div size='20px'> ❤️ Working to deepen in the areas I enjoy, to get a good position in computer science with a solid education and experience and to make the best contributions to this science. </div> 
