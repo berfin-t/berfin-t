@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
  
-<img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> About me:
+<img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> 
     
 <div size='20px'> ❤️ I'm studying computer engineering at Aydın Adnan Menderes University. I am interested in Data Science, Machine Learning, Deep Learning and Blockchain. </div>
 <div size='20px'> ❤️ An enthusiastic and dynamic software Data Scientist with never ending passion.  </div>
