@@ -19,5 +19,5 @@
 
 
 - 🔭 I’m currently working on Data Analysis, Machine Learning and Deep Learning. 
-- 🌱 I’m currently learning Blockchain and C# Language.
+- 🌱 I’m currently learning Backend, Blockchain and C# Language.
 </br>
