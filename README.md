@@ -1,6 +1,5 @@
 <div id="header" align="center">     
-<a href="https://github.com/berfin-t">
-      <img src="https://media.giphy.com/media/sQbnLoPizedqPIaq52/giphy-downsized.gif" width="200"/></a>
+<a href="https://github.com/berfin-t"><img src="https://media.giphy.com/media/sQbnLoPizedqPIaq52/giphy-downsized.gif" width="200"/></a>
 <div>
 <a href="https://www.linkedin.com/in/berfintek/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
