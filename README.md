@@ -10,14 +10,12 @@
 
 <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> ABOUT ME:
     
-- I'm studying computer engineering at Aydın Adnan Menderes University. I am interested in Data Science, Machine Learning, Deep Learning and Backend. 
-- An enthusiastic and dynamic software Data Scientist with never ending passion.
-- Working to deepen in the areas I enjoy, to get a good position in computer science with a solid education and experience and to make the best contributions to this science. 
-- Solving problems in the best way and managing time in the best way. 
+- I graduated from Aydın Adnan Menderes University, Department of Computer Engineering. I am interested in Data Science, Machine Learning, Deep Learning and Backend(C#, .Net Core).
+- I am an enthusiastic and dynamic software developer with never-ending passion.
+- My philosophy is to deepen in the fields I enjoy, to gain a good place in computer science with a solid education and experience, and to work to make the best contributions to this science.
 </br>
 
-- 🔭 I’m currently working on Data Analysis, Machine Learning and Backend. 
-- 🌱 I’m currently learning C#, Asp.Net.
+- 🌱 Şu anda Veri Analizi, Makine Öğrenimi ve Arka Uç(C#, .Net Core) üzerinde çalışıyorum.
 </br>
 
 <div>
