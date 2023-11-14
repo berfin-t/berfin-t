@@ -15,7 +15,7 @@
 - My philosophy is to deepen in the fields I enjoy, to gain a good place in computer science with a solid education and experience, and to work to make the best contributions to this science.
 </br>
 
-- 🌱 Şu anda Veri Analizi, Makine Öğrenimi ve Arka Uç(C#, .Net Core) üzerinde çalışıyorum.
+- 🌱 I am currently working on Data Analytics, Machine Learning and Backend(C#, .Net Core).
 </br>
 
 <div>
