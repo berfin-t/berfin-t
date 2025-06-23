@@ -10,12 +10,12 @@
 
 <img src="https://media.giphy.com/media/5P5b96VnFaNiQ7ABOT/giphy.gif" width="30"> ABOUT ME:
     
-- I graduated from Aydın Adnan Menderes University, Department of Computer Engineering. I am interested in Data Science, Machine Learning, Deep Learning and Backend(C#, .Net Core).
+- I graduated from Aydın Adnan Menderes University, Department of Computer Engineering. I am interested in FullStack.
 - I am an enthusiastic and dynamic software developer with never-ending passion.
 - My philosophy is to deepen in the fields I enjoy, to gain a good place in computer science with a solid education and experience, and to work to make the best contributions to this science.
 </br>
 
-- 🌱 I am currently working on Data Analytics, Machine Learning and Backend(C#, .Net Core).
+- 🌱 I am currently working .Net Core, Blazor, React.
 </br>
 
 <div>
